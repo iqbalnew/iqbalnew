@@ -120,8 +120,8 @@ Here are some ideas to get you started:
 
 ## 📉 **My Github Statistics**
 
-![Pauzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadpauzi&hide=contribs,prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadpauzi&layout=compact)
+![Pauzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iqbalnew&hide=contribs,prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalnew&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=muhammadpauzi)
 
